@@ -1,0 +1,2 @@
+Stevan|Sevanovic|Luk ko noga|150000.0|[]
+NIkola|nikolic|postar|35.0|[]
